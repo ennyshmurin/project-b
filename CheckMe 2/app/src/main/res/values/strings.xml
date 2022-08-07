@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckMe</string>
+    <string name="app_signup">SignUp</string>
+    <string name="add_item">ADD ITEM</string>
+</resources>
